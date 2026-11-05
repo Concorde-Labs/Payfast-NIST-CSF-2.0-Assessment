@@ -2,11 +2,11 @@
 
 ## Project Overview
 
-This project presents a cybersecurity gap assessment of Payfast Inc., a fintech organization providing digital payment services to individuals and small businesses.
+Payfast Inc. is a fintech organization providing digital payment services to individuals and small businesses. With approximately 180 employees and operations supported by cloud applications, internal systems, and third-party integrations, maintaining effective cybersecurity governance is essential to protecting sensitive information and ensuring operational resilience.
 
-The assessment applies the **NIST Cybersecurity Framework (CSF) 2.0** to evaluate cybersecurity practices across key business processes, establish Current and Target Profiles, identify security gaps, and develop a prioritized implementation roadmap.
+An assessment of Payfast's cybersecurity environment identified weaknesses in asset management, access controls, security monitoring, incident response, and third-party risk management.
 
-The project also maps relevant findings to **NIST SP 800-53 Rev. 5 control families** to support practical remediation planning.
+Using the **NIST Cybersecurity Framework (CSF) 2.0**, the assessment examines the organization's current security posture against desired cybersecurity outcomes, identifies control gaps, and establishes a risk-informed remediation roadmap. Relevant **NIST SP 800-53 Rev. 5** control families support the recommended improvements.
 
 ## Assessment Objectives
 

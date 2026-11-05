@@ -38,9 +38,8 @@ Relevant cybersecurity weaknesses include asset visibility, security awareness, 
 
 ## Project Deliverables
 
-- NIST CSF 2.0 Current and Target Profile Assessment
-- Cybersecurity Gap Analysis and Control Mapping
-- Prioritized Framework Implementation Plan
+- [NIST CSF 2.0 Gap Assessment](01-NIST-CSF-Gap-Assessment.md)
+- [Cybersecurity Implementation Plan](02-Framework-Implementation-Plan.md)
 
 ## Skills Demonstrated
 
